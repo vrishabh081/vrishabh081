@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rishabh Vishwakarma</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
+https://github.com/vrishabh081/vrishabh081/blob/main/cover.jpg
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrishabh081&label=Profile%20views&color=0e75b6&style=flat" alt="vrishabh081" /> </p>
 
 - 🔭 I’m currently looking for a job **as MERN Stack Developer**
