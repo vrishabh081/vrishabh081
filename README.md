@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <!-- ![logo](https://github.com/vrishabh081/vrishabh081/blob/main/cover.jpg) -->
-<img src = "https://github.com/vrishabh081/vrishabh081/blob/main/cover.jpg" alt="coverimage" height="400" width="500" />
+<img src = "https://github.com/vrishabh081/vrishabh081/blob/main/cover.jpg" alt="coverimage" height="400" width="100%" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrishabh081&label=Profile%20views&color=0e75b6&style=flat" alt="vrishabh081" /> </p>
 
