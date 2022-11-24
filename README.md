@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <!-- ![logo](https://github.com/vrishabh081/vrishabh081/blob/main/cover.jpg) -->
-<!-- <img src = "https://github.com/vrishabh081/vrishabh081/blob/main/cover.jpg" alt="coverimage" height="400" width="100%" /> -->
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img src = "https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="coverimage"  />
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrishabh081&label=Profile%20views&color=0e75b6&style=flat" alt="vrishabh081" /> </p>
 
