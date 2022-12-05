@@ -12,7 +12,7 @@
 
 - 🌱 I’m exploring **new tech stacks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vrishabh081](https://github.com/vrishabh081)
+- 👨‍💻 All of my projects are available at (https://vrishabh081.github.io)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
