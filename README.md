@@ -16,32 +16,13 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 🔭 I’m currently pursuing Full Stack Web Development
-
-- 🌱 I’m currently learning React Native
+- 🌱 Interested in app development
 
 - 💞 I’m looking to collaborate on *Projects*
 
-- 💬 Ask me about HTML, CSS, JavaScript, React & DSA
-
-- 📫 How to reach me rishabhvishwakarma398@gmail.com
+- 💬 Ask me about HTML, CSS, JavaScript, React, Node, Express, MongoDB
 
 
-
-<hr />
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/vrishabh081" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/rishabh-vishwakarma-35028323a/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:rishabhvishwakarma398@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-</div>
 
 <hr />
 
